@@ -1,0 +1,8 @@
+{
+  "name": "DentIraq Platform",
+  "description": "A comprehensive dental clinic management and community platform for Iraq, connecting dentists, labs, suppliers, and patients.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
